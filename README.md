@@ -1,3 +1,3 @@
 # CodeSelfPortrait
-##by Ashley Woon
+by Ashley Woon
 Processing sketch to create a self portrait
